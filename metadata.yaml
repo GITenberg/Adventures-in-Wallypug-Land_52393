@@ -1,11 +1,14 @@
 _repo: Adventures-in-Wallypug-Land_52393
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Wright, Alan
     birthdate: 1864
     gutenberg_agent_id: '32064'
     url: http://www.gutenberg.org/2009/agents/32064
+covers:
+- cover_type: archival
+  image_path: 52393-h/images/cover.jpg
 creator:
   author:
     agent_name: Farrow, G. E. (George Edward)
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '7640'
     url: http://www.gutenberg.org/2009/agents/7640
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52393#Adventures-in-Wallypug-Land
 gutenberg_issued: '2016-06-22'
 gutenberg_type: Text
 identifiers:
